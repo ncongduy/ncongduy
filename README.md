@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Duy Nguyen - Passionate web developer</h1>
 
-- Honest and friendly.
-- Love to learn new things. I would like to become a lifelong learner.
-- Enjoy working with ReactJS.
+- ⚡ Honest and friendly.
+- 🌱 Love to learn new things. I would like to become a lifelong learner.
+- 😄 Enjoy working with ReactJS.
 - 👨‍💻 All of my projects are available at [https://ncongduy.github.io/myPortfolio/](https://ncongduy.github.io/myPortfolio/)
 
 <h3 align="left">Connect with me:</h3>
