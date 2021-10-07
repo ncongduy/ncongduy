@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![banner](https://media-exp1.licdn.com/dms/image/C4E16AQGr3BVkOMmpNA/profile-displaybackgroundimage-shrink_350_1400/0/1630418202591?e=1639008000&v=beta&t=Nxv-Xra5EVFsMJtpDjsTxYSKnsBq_QfgmXwzaAiE1z8)
+
 <h1 align="center">Duy Nguyen - Passionate web developer</h1>
 
 - Honest and friendly.
@@ -40,10 +42,3 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ncongduy&show_icons=true&locale=en&layout=compact" alt="ncongduy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncongduy&show_icons=true&locale=en" alt="ncongduy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ncongduy&" alt="ncongduy" /></p>
-
