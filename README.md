@@ -1,4 +1,4 @@
-![banner](https://media-exp1.licdn.com/dms/image/C4E16AQGr3BVkOMmpNA/profile-displaybackgroundimage-shrink_350_1400/0/1630418202591?e=1649289600&v=beta&t=Vyl4i5cc-JX-f0Vt-Cl6w_DTL0aR3tHdar3OmArfItE)
+![banner](./banner/banner.jpeg)
 
 <h1 align="center">Duy Nguyen - Passionate web developer</h1>
 
