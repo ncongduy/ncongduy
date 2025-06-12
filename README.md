@@ -1,6 +1,6 @@
 ![banner](./banner/banner.jpeg)
 
-<h1 align="center">Duy Nguyen Cong - Passionate DevOps</h1>
+<h1 align="center">Duy Nguyen Cong</h1>
 
 - ⚡ Honest and friendly.
 - 🌱 Love to learn new things. I'm a lifelong learner.
